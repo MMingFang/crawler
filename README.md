@@ -2,6 +2,7 @@
 
 初步系统学习python爬虫crawler
 
+2020年4月21日
 Task01：html等有关知识，api使用，request-get使用 拔高部分：js
 
 网页是由 HTML 、 CSS 、JavaScript 组成的。
@@ -47,3 +48,13 @@ JavaScript中的保留字：abstract，else，instanceof，super，boolean，enu
 通过console.log()向控制台写入内容
 语法错误：通过控制台进行调试
 逻辑错误：通过alert() 进行调试
+
+
+2020年4月23日
+Task02：bs4、xpath和正则表达式
+
+XPath即为XML路径语言（XML Path Language），它是一种用来确定XML文档中某部分位置的语言。
+在XPath中，有七种类型的节点：元素、属性、文本、命名空间、处理指令、注释以及文档（根）节点。
+XML文档是被作为节点树来对待的。
+
+【bs4，正则表达式的ipynb文件没能打开】
